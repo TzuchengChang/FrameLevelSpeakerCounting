@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+osdc/__init__.py
+osdc.egg-info/PKG-INFO
+osdc.egg-info/SOURCES.txt
+osdc.egg-info/dependency_links.txt
+osdc.egg-info/top_level.txt

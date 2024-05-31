@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: osdc
+Version: 0.0.1
+Summary: Overlapped Speech Detection and Counting
+Author: Samuele Cornell
+Author-email: cornellsamuele@gmail.com
+License: MIT
+Requires-Python: >=3.6
+License-File: LICENSE
